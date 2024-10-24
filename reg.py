@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Oct  9 16:22:09 2022
 
-@author: SerkanSavas
-"""
 #empty: rastgele değerler atıyor 
 #numpy bilimsel hesaplamalarda kullanılır
 #pandas veri işlemlerinde kullanılır, veri analizi
@@ -22,7 +17,7 @@ Created on Sun Oct  9 16:22:09 2022
 # çoklu, çok değişkenli regresyon iki veya daha fazla bağımsız değişkenin olduğu lineer regresyon
 # çoklu regresyon katsayısı :R 0 ile 1 arasında bir katsayı. 1 e ne kadar yaklaşırsa ilişki o kadar kuvvetlidir. ev  fiyatı merkeze yaklaştıkça fiystı artar.
 
-#hata metriklerini araştır. 
+
 
 import numpy as np
 import pandas as pd 
